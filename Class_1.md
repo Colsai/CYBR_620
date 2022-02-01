@@ -53,4 +53,10 @@ Ensures that the data is available to use when the authorized user wants it.
 
 **The cornerstone of cybersecurity**
 
+Two additional CIA security goals
+- Authentication attempts to ensure that an individual is who they claim to be.
+- Nonrepudiation deals with the ability to verify that a message has been sent and received and the sender can be identified and verified.
+
+Recent Emphasis on Systems Assurance
+- Auditability referes to whether a control can be verified to be functioned properly. 
 
