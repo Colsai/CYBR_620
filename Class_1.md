@@ -65,3 +65,6 @@ Ensures that the data is available to use when the authorized user wants it.
 - Its purpose is to complement and enhance risk management efforts.
 - It is composed of five core functions: identify, protect, detect, respond, and record.
 - Tiers represent the organization's ability from Partial (T1) to Adaptive (T4).
+
+### Start with...
+Start with an authenticated source, such as NIST's framework. NIST can expand outside of the federal government for risk management. 
