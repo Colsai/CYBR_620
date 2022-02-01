@@ -23,6 +23,7 @@ Unlike a connected attack...
 - It is very easy to break a wifi password.
 
 <hr/>
+
 ## Chapter 2
 
 ### Nation-States, Terrorists, and Information Warfare
