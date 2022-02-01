@@ -41,7 +41,10 @@ Unlike a connected attack...
 
 ### **C**onfidentiality
 Ensures that only indivudals have the authority to view a piece of information.
+
 ### **I**ntegrity
 Deals with the generation and modification of data. Only authorized individuals should ever be able to create or change/delete information.
+Do we trust who we say we are?
+
 ### **A**vailability
 Ensures that the data is available to use when the authorized user wants it. 
