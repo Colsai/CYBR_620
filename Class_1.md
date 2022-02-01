@@ -48,3 +48,8 @@ Do we trust who we say we are?
 
 ### **A**vailability
 Ensures that the data is available to use when the authorized user wants it. 
+
+**The cornerstone of cybersecurity**
+
+
+
