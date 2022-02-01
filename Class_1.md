@@ -1,4 +1,5 @@
-# Cybersecurity class 1 (Rao)
+# Cybersecurity Class 1 (Rao)
+## Chapter 1
 ## 1/31/22
 
 ## Principles of Computer Security, Fourth Edition
@@ -21,6 +22,8 @@ Unlike a connected attack...
 - Cyber offense is much more difficult than cyber defense. 
 - It is very easy to break a wifi password.
 
+## Chapter 2
+
 ### Nation-States, Terrorists, and Information Warfare
 - Critical infrastructures are vulnerable to cyberattack (electricity, water, etc.)
 - This is a major area of concern for the US government.
@@ -36,9 +39,9 @@ Unlike a connected attack...
 - Cybersecuirty is a regular topic in headline news.
 - Led to terms hacking, virus, TCP/IP, encryption, and firewalls in casual conversations.
 
-# **C**onfidentiality
+### **C**onfidentiality
 Ensures that only indivudals have the authority to view a piece of information.
-# **I**ntegrity
+### **I**ntegrity
 Deals with the generation and modification of data. Only authorized individuals should ever be able to create or change/delete information.
-# **A**vailability
+### **A**vailability
 Ensures that the data is available to use when the authorized user wants it. 
