@@ -22,6 +22,7 @@ Unlike a connected attack...
 - Cyber offense is much more difficult than cyber defense. 
 - It is very easy to break a wifi password.
 
+<hr/>
 ## Chapter 2
 
 ### Nation-States, Terrorists, and Information Warfare
@@ -51,5 +52,4 @@ Ensures that the data is available to use when the authorized user wants it.
 
 **The cornerstone of cybersecurity**
 
-<hr/>
 
