@@ -60,3 +60,8 @@ Ensures that the data is available to use when the authorized user wants it.
 ### Recent Emphasis on Systems Assurance
 - Auditability referes to whether a control can be verified to be functioned properly. 
 
+### Framework for Improving Critical Infrastructure Cybersecurity
+- It provides a common taxonomy and mechanism to assist in aligning management practices with existing standards, guidelines, and practices.
+- Its purpose is to complement and enhance risk management efforts.
+- It is composed of five core functions: identify, protect, detect, respond, and record.
+- Tiers represent the organization's ability from Partial (T1) to Adaptive (T4).
