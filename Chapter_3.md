@@ -53,8 +53,9 @@ Hiring should incorporate reviews, status changes. Retirement, separation, and t
 Mandatory vacations are a good idea as they can stop issues such as fraud or embezzlement, and may give the employer the ability to detect issues. 
 Social networking policies are also important.
 
-AUP otlines what is acceptable for employees to use or view, limits liability and should clearly delineate activities not allowed.
+AUP outlines what is acceptable for employees to use or view, limits liability and should clearly delineate activities not allowed.
 Email usage policies are one example. 
 Clean desk policy- employees shouldn't leave out their password or sensitive information, since it can be compromised. 
 BYOD policy- to lower the risk associated with connecting a wide array of devices to the network.
 
+Die care i
