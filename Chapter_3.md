@@ -99,7 +99,9 @@ Physical security is all mechanisms of physical access to computer systems and n
 Things like doors and windows, floors and ceilings, etc.
 We can restrict physical access by requiring individuals to authenticate with something they have, know, or are.
 Locks are a common physical have or know, but video surveillance, access logs, and guards are other methods of security. 
-Biometrics are something you are, and can be more sophisticated and expensive, but can suffer from false positives and false negatives. Examples- handwriting analysis, retinal/iris scans, voiceprints, hand geometry, facial geometry, fingerprints, etc. 
+Biometrics are something you are, and can be more sophisticated and expensive, but can suffer from false positives and false negatives. Examples- handwriting analysis, retinal/iris scans, voiceprints, hand geometry, facial geometry, fingerprints, etc.   
+
+
 Physical barriers (such as walls or even open space), can serve as layered security. Man traps are small spaces for only one person at a time, between locking doors. 
 HVAC is an important component of security because of computers generate a lot of heat. This can also include continuous power supply, etc. 
 Fire suppression is also an aspect of security, since fires can easily destroy computing equipment- gas and water based systems.
