@@ -7,3 +7,9 @@ Encryption and crypytography:
 - Cypers are complicated algorithms for concealing information
 - Plaintext is protected from authorized encryption with ciphertext
 - An algorithm and a key are used. 
+
+- Cryptanalysis is the process of analyzing information in an attempt to return the encrypted message to its original form.
+- Differential cryptanalysis, which compares input and output to try to determine key used.
+- Linear cryptanalysis, which compares
+
+Cryptography is more than encryption: data protection, data hiding, integrity checks, nonrepudiation attacks, policy enforcement, key management and exchange.
